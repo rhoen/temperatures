@@ -1,0 +1,9 @@
+development:
+  encoding: utf8
+  adapter: sqlite3
+  database: smart_home
+
+test:
+  encoding: utf8
+  adapter: sqlite3
+  database: smart_home_test
